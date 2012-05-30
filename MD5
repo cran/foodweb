@@ -1,0 +1,16 @@
+f85b27ee3e589daa9d982fb9792fcd9f *DESCRIPTION
+56da5a171ad7bf01c1baa01eb6ed1a02 *NAMESPACE
+2e68bfd0d5eb28a34720c252dee2662f *R/Asym2Sym.R
+f26d2abda7efcd6de47bf4f26606d12e *R/Calculations.R
+6cab5c8e28152bb4ad8b160b55fc1213 *R/Network.plot.R
+7ebc0eaff337b2810e599104bf6d71c6 *R/functions.R
+f9f6cc6b43f8628e11c74a321663c4b2 *data/moss.csv.gz
+198eec0997513d37660a751e966d2532 *inst/CITATION
+79863343e53488fc6ba1a2775bedce2e *inst/doc/Package_rationale.pdf
+e2652cbf775624b98b651f4b954bebac *man/analyse.list.Rd
+b7aafc2b5915ebccf02249260349558f *man/analyse.seq.Rd
+b4304e85797932976d538892b4ed5c1b *man/analyse.single.Rd
+43bb866268e4284732cf8f7d08314392 *man/foodweb-package.Rd
+7f3e175d970d3e210fbbd4e5f4258ade *man/mat.2.list.Rd
+279e3377c786f46552418e02357edc10 *man/moss.Rd
+442e5fd069f4c25958644a6d5ac27836 *man/plotweb.Rd

@@ -1,0 +1,7 @@
+citHeader("To cite the foodweb package in publications use:")
+
+citEntry(entry="Manual",
+         title = "food web: an open-source program for the visualisation and analysis of compilations of complex food webs.",
+         author =personList(as.person("G. Perdomo"), as.person("R. Thompson"), as.person("P. Sunnucks")),
+         journal      = "Environmental Modelling and Software (submitted)",
+		 textVersion = "Perdomo G, Thompson R, Sunnucks P (submitted) food web. Version 1-0. Environmental Modelling and Software,")
